@@ -1,0 +1,3 @@
+una linea con texto
+otra linea con texto
+Esto es otra cadena
